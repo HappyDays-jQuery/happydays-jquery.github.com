@@ -1,1 +1,1 @@
-# happydays-jquery.github.com
+# happydays-jquery.github.io
